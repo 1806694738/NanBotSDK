@@ -174,9 +174,9 @@ C4996	'sprintf': This function or variable may be unsafe. Consider using sprintf
 
 ### 	解决方法
 
-![2](2.png)
+![2](\2.png)
 
-![3](3.png)
+![3](\3.png)
 
 3.
 
@@ -187,4 +187,4 @@ C1189	#error:  Please use Releas version
 
 ### 	解决方法
 
-![4](4.png)
+![4](\4.png)
